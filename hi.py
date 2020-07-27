@@ -1,2 +1,1 @@
-def hi():
-	return 'dfdf'
+print("hello world")
