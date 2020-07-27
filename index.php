@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 <?php
+echo("php code executed")
 exec("python3 hi.py")
 ?>
-</body>
-</html> 
